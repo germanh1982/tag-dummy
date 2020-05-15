@@ -1,0 +1,94 @@
+{
+    "bluetooth": {
+        "port": 1
+    },
+
+    "userdb": {
+        "456": {
+            "username": "gherrera",
+            "profile": 1
+        }
+    },
+
+    "tagid": 17195080339109925489,
+
+    "checklist_num_questions": 5,
+
+    "checklist_questions": [
+        {
+            "question": "\u00bfEl nivel de aceite agua y fluidos hidr\u00e1ulicos es correcto?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfEl estado del montacargas es bueno, no hay grietas o defectos visibles?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfLas cadenas del m\u00e1stil se ven en buen estado?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfLa presi\u00f3n de los neum\u00e1ticos es la correcta?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfLos neum\u00e1ticos presentan cortes o ranuras?",
+            "expected": false,
+            "critical": false
+        },
+        {
+            "question": "\u00bfEl cintur\u00f3n de seguridad funciona correctamente?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfEl manual del operador est\u00e1 presente en el veh\u00edculo y es legible?",
+            "expected": true,
+            "critical": false
+        },
+        {
+            "question": "\u00bfLas placas de identificaci\u00f3n del veh\u00edculo son legibles y est\u00e1n en buen estado?",
+            "expected": true,
+            "critical": false
+        },
+        {
+            "question": "\u00bfPoseo los permisos necesarios para usar \u00e9ste veh\u00edculo?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfLos frenos y el control de direcci\u00f3n funcionan correctamente?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfEl pedal de freno est\u00e1 operativo?",
+            "expected": true,
+            "critical": true
+        },
+        {
+            "question": "\u00bfSe detectan fugas?",
+            "expected": false,
+            "critical": true
+        },
+        {
+            "question": "\u00bfEl veh\u00edculo posee se\u00f1ales ac\u00fasticas de retroceso?",
+            "expected": true,
+            "critical": false
+        },
+        {
+            "question": "\u00bfLa perilla de levante/descenso se mueve libremente y regresa a neutral al ser liberada?",
+            "expected": true,
+            "critical": false
+        },
+        {
+            "question": "\u00bfEl desconector de emergencia de la bater\u00eda funciona adecuadamente?",
+            "expected": true,
+            "critical": false
+        }
+    ]
+}
